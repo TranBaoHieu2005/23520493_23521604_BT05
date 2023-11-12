@@ -1,0 +1,4 @@
+﻿  Bai179.cpp
+D:\Visual\UIT_23521462_BT05\Bai179\Bai179.cpp(73,18): warning C4101: 'Q': unreferenced local variable
+D:\Visual\UIT_23521462_BT05\Bai179\Bai179.cpp(73,15): warning C4101: 'P': unreferenced local variable
+  Bai179.vcxproj -> D:\Visual\UIT_23521462_BT05\x64\Debug\Bai179.exe
